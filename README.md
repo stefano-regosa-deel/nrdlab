@@ -6,7 +6,7 @@
   My focus is writing scalable and performing apps making sure the software is designed with long-term maintainability in mind.
   
   ```Typescript | React.js | Node``` [linkedin](https://www.linkedin.com/in/stefanoregosa/) 
-| [twitter](https://twitter.com/thenrdlab) | [mail](regosas@gmail.com)
+| [twitter](https://twitter.com/thenrdlab) | [mail](mailto:regosas@gmail.com)
 
 🌎 Full Remote (Italy)
 
