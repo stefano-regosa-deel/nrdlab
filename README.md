@@ -2,7 +2,7 @@
 
 
 
-  I’m a Software Engineer specialized in Typescript, React.js, Node.js, Javascript, with a proven expertise in building complex Front End applications.
+  I’m a Software Engineer specialized in Typescript, React.js, Node.js with a proven expertise in building complex Front End applications.
   My focus is writing scalable and performing apps making sure the software is designed with long-term maintainability in mind.
   
   ```Typescript | React.js | Node``` [linkedin](https://www.linkedin.com/in/stefanoregosa/) 
