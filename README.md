@@ -5,12 +5,11 @@
  > *I’m a Software Engineer specialized in Typescript, React.js, Node.js with a proven expertise in building complex Front End applications.
   My focus is writing scalable and performing apps making sure the software is designed with long-term maintainability in mind.*
   
-  ```Typescript | React.js | Node```
 
 🌎 Full Remote (Italy)
 
 
-[![Homepage][web-image]](https://nrdlab.com/)
+
 [![JavaScript][js-image]]()
 [![TypeScript][ts-image]]()
 [![Twitter Follow][twitter-image]](https://twitter.com/thenrdlab)
