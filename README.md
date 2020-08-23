@@ -2,25 +2,21 @@
 
 
 
-  I’m a Software Engineer specialized in Typescript, React.js, Node.js with a proven expertise in building complex Front End applications.
-  My focus is writing scalable and performing apps making sure the software is designed with long-term maintainability in mind.
+ > *I’m a Software Engineer specialized in Typescript, React.js, Node.js with a proven expertise in building complex Front End applications.
+  My focus is writing scalable and performing apps making sure the software is designed with long-term maintainability in mind.*
   
-  ```Typescript | React.js | Node``` [linkedin](https://www.linkedin.com/in/stefanoregosa/) 
-| [twitter](https://twitter.com/thenrdlab) | [mail](mailto:regosas@gmail.com)
+  ```Typescript | React.js | Node```
 
 🌎 Full Remote (Italy)
 
 
-<!--
-**nrdlab/nrdlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Homepage][web-image]](https://nrdlab.com/)
+[![JavaScript][js-image]]()
+[![TypeScript][ts-image]]()
+[![Twitter Follow][twitter-image]](https://twitter.com/thenrdlab)
 
-Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: regosas@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[js-image]: https://img.shields.io/badge/%20-JavaScript-grey?style=flat-square&logo=javascript&logoColor=f7df1e
+[ts-image]: http://img.shields.io/badge/%20-TypeScript-grey?style=flat-square&logo=typescript&logoColor=007acc
+[twitter-image]: https://img.shields.io/twitter/follow/thenrdlab?style=social
