@@ -8,15 +8,13 @@
 
 🌎 Full Remote (Italy)
 
-
-
-
-[![TypeScript][ts-image]]()
-[![Twitter Follow][twitter-image]](https://twitter.com/thenrdlab)
-
+- 💼  I'm currently working as a **Senior Software Engineer** in the **[Bee](https://beefree.io/)** unit of **[Mailup](https://www.mailup.it/)**
+- 🗣  I'm all about **clean code**, **functional programming** and **Open source**.
+- ⚙️   I love to code in **TypeScript**, **React**, **Node.js**
+- 🔭  I'd like to work more on **Rust**
 
 
 [ts-image]: http://img.shields.io/badge/%20-TypeScript-grey?style=flat-square&logo=typescript&logoColor=007acc
 [twitter-image]: https://img.shields.io/twitter/follow/thenrdlab?style=social
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=nrdlab&count_private=true)
+
