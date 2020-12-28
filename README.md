@@ -14,5 +14,5 @@
 - ⚙️   I love to code in **TypeScript**, **React**, **Node.js**
 - 🔭  I'd like to work more on **Rust**
 
-[twitter](https://twitter.com/thenrdlab) | [dev.to](https://dev.to/stefano_regosa)
+[LinkedIn](https://www.linkedin.com/in/stefanoregosa/) | [Twitter](https://twitter.com/thenrdlab) | [Dev.to](https://dev.to/stefano_regosa)
 
