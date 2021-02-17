@@ -7,10 +7,11 @@
     pipe(
       about,
       M.matchW('_tag')({
+         Name: () => 'Stefano Regosa',
          Role: () => 'Software Engineer @ `https://beefree.io/',
          Focus : () => ({ TypeScript , React , Node }),
          Currently: () =>'Hacking in TypeScript & Rust',
-         AllAbout: () =>  ['Open Source','Functional Programming','Clean code'],
+         AllAbout: () =>  ['Open Source','Functional Programming','Clean code']
       })
     )
 
