@@ -18,5 +18,5 @@
 ```
 
 
-[Website](https://stefanoregosa.com) | [LinkedIn](https://www.linkedin.com/in/stefanoregosa/) | [Twitter](https://twitter.com/thenrdlab) | [Dev.to](https://dev.to/stefano_regosa)
+[Blog](https://undefined.technology/) | [Website](https://stefanoregosa.com) | [LinkedIn](https://www.linkedin.com/in/stefanoregosa/) | [Twitter](https://twitter.com/thenrdlab) | [Dev.to](https://dev.to/stefano_regosa)
 
