@@ -8,10 +8,10 @@
       about,
       M.matchW('_tag')({
          Name: () => 'Stefano Regosa',
-         Role: () => 'Senior Software Engineer @ TreatWell',
+         Role: () => 'Software Engineer, Technical Leader, and Frontend Architect',
          Focus : () => ({ TypeScript , React , Node }),
          Currently: () =>'Hacking in TypeScript & Rust',
-         AllAbout: () =>  ['Open Source','Functional Programming','FrontEnd Architectures']
+         AllAbout: () =>  ['Open Source','Functional Programming',' FrontEnd Architectures']
       })
     )
 
