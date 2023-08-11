@@ -10,8 +10,10 @@
          Name: () => 'Stefano Regosa',
          Role: () => 'Software Engineer, Technical Leader, and Frontend Architect',
          Focus : () => ({ TypeScript , React , Node }),
-         Currently: () =>'Hacking in TypeScript & Rust',
-         AllAbout: () =>  ['Open Source','Functional Programming',' FrontEnd Architectures']
+         Currently: () => 'Hacking in TypeScript & Rust',
+         Blog: () => 'https://undefined.technology/',
+         AllAbout: () =>  ['Open Source','Functional Programming',' FrontEnd Architectures'],
+        
       })
     )
 
